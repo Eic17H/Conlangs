@@ -11,6 +11,8 @@ G=bcdfghjklmnpqstvxz
 
 ǝ̨|é
 
+
+
 -* Proto-Lyzic
 - Technical limitation
 ǝ̨/é/_
@@ -280,8 +282,6 @@ ijy/i/_
 iji/ihi/_
 j//_
 ʒ/j/_
-- No "nl"
-n//_l
 - Plosives
 p/p/_
 b/b/_
@@ -382,11 +382,11 @@ t/tt/_V#
 k/kk/V_V#
 V//P_lV
 [ptk]//_#
+- Other
+kx/x/_
+n//_l
 - Riquids
 - lV/\\/[szcj]_/l_
 ll/rl/_
 l/r/_G
 l/r/G_
-- Other
-kx/x/_
-
