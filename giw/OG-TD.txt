@@ -84,8 +84,8 @@ i/i/_
 é/y/_
 -* Tedenian
 - Palatals
-kj/c/_
-gj/j/_c
+kj/c/_V
+gj/j/_V
 - Plosives
 p/p/_
 b/b/_
@@ -142,6 +142,8 @@ i/i/_
 ɑ/o/_
 ɐ/a/_
 æ/e/_
+c/ki/_
+j/i/_
 - Epenthetic vowel
 /y/PS_P
 /y/#S_P
