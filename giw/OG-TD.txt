@@ -1,8 +1,8 @@
 Y=jeøiy
 I=jei
 V=aeiouy
-A=abcdefghijklmnopqrstuvwxyzþð
-C=bcdfghjklmnpqstvxzþð
+A=abcdefghijklmnopqrstuvwxyzþðɟ
+C=bcdfghjklmnpqstvxzþðɟ
 K=pbφtδθʈdƭcγɟçkgχqɋϙfvþðszʃʒƙɣhⱶmnŋlłļrʀɽ
 F=iyupbfv
 S=fhjsvz
@@ -85,7 +85,7 @@ i/i/_
 -* Tedenian
 - Palatals
 kj/c/_V
-gj/j/_V
+gj/ɟ/_V
 - Plosives
 p/p/_
 b/b/_
@@ -142,7 +142,13 @@ i/i/_
 ɑ/o/_
 ɐ/a/_
 æ/e/_
+- other versions:
+- c/s/_
+- ɟ/z/_
+- c/k/_
+- ɟ/g/_
 c/ki/_
+ɟ/j/_
 j/i/_
 - Epenthetic vowel
 /y/PS_P
