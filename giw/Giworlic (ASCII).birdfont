@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<font>
+<format>4.33</format>
+<program version="6.2.1" os="windows" />
+
+<postscript_name>Giworlic (ASCII)</postscript_name>
+<name>Giworlic (ASCII)</name>
+<subfamily>Regular</subfamily>
+<bold>false</bold>
+<italic>false</italic>
+<mono>false</mono>
+<full_name>Typeface</full_name>
+<unique_identifier>Typeface</unique_identifier>
+<version>Version 1.0</version>
+<description></description>
+<copyright>SIL Open Font License (OFL)</copyright>
+<license>SIL Open Font License (OFL)</license>
+<license_url>http://scripts.sil.org/OFL</license_url>
+<weight>400</weight>
+<italic_angle>0</italic_angle>
+<units_per_em>1024</units_per_em>
+<trademark></trademark>
+<manufacturer></manufacturer>
+<designer></designer>
+<vendor_url></vendor_url>
+<vendor_id>Bird</vendor_id>
+<designer_url></designer_url>
+<underline_position>-10</underline_position>
+<underline_thickness>3.5</underline_thickness>
+<open_engraving>false</open_engraving>
+<same_way_back_engraving>false</same_way_back_engraving>
+<external_backgrunds>false</external_backgrunds>
+
+<horizontal>
+	<top_limit>78</top_limit>
+	<top_position>72</top_position>
+	<x-height>36</x-height>
+	<base_line>0</base_line>
+	<bottom_position>-20</bottom_position>
+	<bottom_limit>-21</bottom_limit>
+	<line_gap>10</line_gap>
+</horizontal>
+
+<grid width="1"/>
+<grid width="2"/>
+<grid width="4"/>
+
+<background scale="1" />
+
+<base_filename>Typeface</base_filename>
+<base_filename_mac>Typeface Mac</base_filename_mac>
+<export_ttf_font>true</export_ttf_font>
+<export_otf_font>true</export_otf_font>
+<export_eot_font>false</export_eot_font>
+<export_svg_font>true</export_svg_font>
+<export_colr_table>true</export_colr_table>
+<export_svg_table>true</export_svg_table>
+<optimize_otf_for_size>false</optimize_otf_for_size>
+<optimize_otf_for_details>true</optimize_otf_for_details>
+
+<default_foreground_color></default_foreground_color>
+
+<svg_units_per_em>100</svg_units_per_em>
+<svg_decimals>5</svg_decimals>
+<ligature_tag>clig</ligature_tag>
+<disable_gvar>false</disable_gvar>
+
+
+<collection name=".notdef" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-20" right="33" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="B -15,10 M 15,10 M 15,62 M -15,62 M -15,10" />
+			<path data="B -20,67 M 20,67 M 20,5 M -20,5 M -20,67" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+41" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="20" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -28,36 L -8,36 D 8,36 8,68 -8,68 L -28,68 L -28,36 O" />
+			<path stroke="8" data="S -28,36 L -8,36 D 8,36 8,4 -8,4 L -28,4 L -28,36 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+43" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -28,4 D 4,4 4,36 -24,36 D -24,40 4,68 4,72 L -28,4 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+44" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="28" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -8,20 D -8,4 -24,4 -24,20 D -24,22.5 -11.95589,32.85663 -8,20 O" />
+			<path stroke="8" data="S -8,52 D -8,68 -24,68 -24,52 D -28,40 -8.54127,51.69297 -8,52 O" />
+			<path stroke="8" data="S 8,20 D 8,4 -8,4 -8,20 L -8,28 L -8,44 L -8,52 D -8,68 8,68 8,52 D 8,51.1 8,48.56667 8,20 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+45" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -28,68 D -12,68 4,52 4,36 D -8,36 -12,36 -24,36 D -24,20 -8,4 8,4 D 0,24 -19,52 -28,68 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+49" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="20" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -8,72 L -8,0 L -8,72 O" />
+			<path stroke="8" data="S -28,36 L 12,36 L -28,36 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+4b" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="20" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -8,28 L -8,20 D -8,4 8,4 8,20 L 8,28 L -8,28 O" />
+			<path stroke="8" data="S -8,20 D -8,4 -24,4 -24,20 D -24,52 -7.45,68 12,68 L -8,20 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+4c" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="28" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -28,4 L -8,4 D 8,4 8,36 -8,36 L -28,36 L -28,4 O" />
+			<path stroke="8" data="S -24,72 D -24,55 -24,15 -24,4 D -24,15 -24,55 -24,72 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+4e" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="28" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 12,68 L -28,68 L 12,68 O" />
+			<path stroke="8" data="S -28,4 L 12,4 L -28,4 O" />
+			<path stroke="8" data="S 12,4 D -8,4 -8,68 12,68 D 8,60 12,20 12,4 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+4f" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="20" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,0 L -24,36 D -24,68 8,68 8,36 L 8,0 L -24,0 O" />
+			<path stroke="8" data="S -24,36 L 8,36 L -24,36 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+50" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="20" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,72 D -24,55.01988 -24,28 -24,20 D -24,4 -8,4 -8,20 D 12.35,20 -6.38281,43.37207 -24,72 O" />
+			<path stroke="8" data="S -8,28 L -8,20 D -8,4 8,4 8,20 L 8,28 L -8,28 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+51" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="20" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 12,36 L -8,36 D -24,36 -24,4 -8,4 L 12,4 L 12,36 O" />
+			<path stroke="8" data="S -8,36 L -8,72 L -8,36 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+52" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,0 D -24,4 4,32 4,36 D -8,36 -12,36 -24,36 D -24,40 4,68 4,72 D -3,54 -14.29681,20.61927 -24,0 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+54" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="20" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 8,20 D 8,4 -8,4 -8,20 L -8,28 L -8,44 L -8,52 D -8,68 -24,68 -24,52 L 8,20 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+55" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="20" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -28,36 L -8,36 D 0,36 8,28 8,20 D 8.03601,16.41311 8,8 8,0 D 5.45,0 -23.7875,2.3 -28,36 O" />
+			<path stroke="8" data="S -24,72 D -24,55 -24,11 -24,0 L -24,72 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+59" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="12" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -28,68 D 0,68 0,4 -28,4 D 7.45,4 -17.53292,44.07524 -28,68 O" />
+			<path stroke="8" data="S -28,4 L 4,4 L -28,4 O" />
+		</layer>
+	</glyph>
+</collection>
+
+</font>
