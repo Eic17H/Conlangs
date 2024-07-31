@@ -11,8 +11,6 @@ G=bcdfghjklmnpqstvxz
 
 ǝ̨|é
 
-
-
 -* Proto-Lyzic
 - Technical limitation
 ǝ̨/é/_
@@ -124,24 +122,12 @@ bje/be/_
 bju/bu/_
 bjy/bi/_
 bji/bi/_
-tjo/ne/_
-tja/na/_
-tje/ne/_
-tju/nu/_
-tjy/ni/_
-tji/ni/_
-δjo/dne/_
-δja/dna/_
-δje/dne/_
-δju/dnu/_
-δjy/dni/_
-δji/dni/_
-ʈjo/ce/_
-ʈja/ca/_
-ʈje/ce/_
-ʈju/cu/_
-ʈjy/ci/_
-ʈji/ci/_
+tjo/ce/_
+tja/ca/_
+tje/ce/_
+tju/cu/_
+tjy/ci/_
+tji/ci/_
 djo/ʒe/_
 dja/ʒa/_
 dje/ʒe/_
@@ -390,3 +376,25 @@ n//_l
 ll/rl/_
 l/r/_G
 l/r/G_
+
+gallja
+est
+omnis
+δiiwiisa
+in
+partees
+trees
+kwaarų
+uuną
+iŋkolunt
+belgae
+alją
+akwiiδaanii
+tertją
+kwii
+ipsoorų
+liŋgwaa
+keltae
+nostraa
+gallii
+appellantur
