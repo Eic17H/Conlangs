@@ -285,8 +285,8 @@ j//_
 - Plosives
 p/p/_
 b/b/_
-t/n/_
-δ/dn/_
+t/t/_
+δ/d/_
 ʈ/t/_
 d/d/_
 k/k/_

@@ -90,8 +90,8 @@ gj/ɟ/_V
 - Plosives
 p/p/_
 b/b/_
-t/dn/_
-δ/n/_
+t/t/_
+δ/d/_
 ʈ/t/_
 d/d/_
 k/k/_
