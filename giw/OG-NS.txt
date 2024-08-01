@@ -1,0 +1,157 @@
+Y=jeøiy
+I=jei
+V=aeiouy
+A=abcdefghijklmnopqrstuvwxyz
+C=bcdfghjklmnpqrstvxz
+K=pbφtδθʈdƭcγɟçkgχqɋϙfvþðszʃʒƙɣhⱶmnŋlłļrʀɽ
+S=cjsz
+P=bdghkpt
+N=cjsznrl
+G=bcdfghjklmnpqstvxz
+
+ǝ̨|é
+
+-* Proto-Nusan
+- Technical limitation
+ǝ̨/é/_
+"//_
+	/ /_
+- Palatalization
+γ/ɟ/_Y
+- Plosives
+p/p/_
+b/b/_
+φ/φ/_
+t/t/_
+δ/δ/_
+θ/θ/_
+ʈ/ʈs/_
+d/dz/_
+ƭ/ƭs/_
+c/c/_
+γ/γ/_
+ɟ/ɟ/_
+ç/ç/_
+k/k/_
+g/g/_
+χ/χ/_
+q/k/_
+ɋ/g/_
+ϙ/χ/_
+- Fricatives
+f/f/_
+v/v/_
+þ/þ/_
+ð/ð/_
+s/s/_
+z/z/_
+ʃ/ʃ/_
+ʒ/ʒ/_
+ƙ/h/_
+ɣ/h/_
+h/h/_
+ⱶ/h/_
+- Nasals
+m/n/_
+n/n/_
+ŋ/n/_
+- Liquids
+l/l/_
+ł/l/_
+ļ/l/_
+r/ʀ/_
+ʀ/ʀ/_
+ɽ/ʀ/_
+- Vowels
+j/j/_
+w/w/_
+o/ʊ/_
+ʌ/ʊ/_
+ǫ/ǝ/_
+ɑ/ɑ/_
+a/ɑ/_
+ą/a/_
+ø/æ/_
+e/æ/_
+ę/ǝ/_
+u/ɨ/_
+ɯ/ɨ/_
+ų/ɨ/_
+y/ɪ/_
+i/ɪ/_
+į/ɨ/_
+ɵ/e/_
+ǝ/e/_
+é/ǝ/_
+-* Nusan 1
+- Plosives
+t/t/_
+δ/d/_
+θ/θ/_
+ʈ/t/_
+d/d/_
+ƭ/θ/_
+c/k/_
+γ/g/_
+ɟ/g/_
+ç/χ/_
+- Fricatives
+h//_
+- Liquids
+ʀ/r/_
+- Vowels
+ʊ/u/_
+ǝ/ǝ/_
+ɑ/o/_
+a/a/_
+æ/a/_
+ɨ/i/_
+ɪ/e/_
+e/e/_
+jǝneχe
+çǝfǝ̨f
+aaɋɋarz
+aaɋɋar
+kƙobƙo
+kʌkʃil
+kƙo
+vǫnʃuǝ̨f
+vǫn
+lǝzaja
+lǝz
+ŋumbe
+tʌmaziǝ̨f
+ɋre
+fɽuz
+dɽymy
+ʒinʌkǝ̨n
+ŋaʈesgzǝ̨f
+ǝmʒøɽs
+þąvǝ̨f
+þjąvǝ̨f
+ʈʃuppa
+ʃɑɽynøc
+ysɑc
+χødɵzjøø
+ɋrǝ̨f
+ʃorɑ
+kʃaǝ̨f
+naɋot
+vɑɑnz
+hjɯǝ̨f
+loyvǝ̨f
+iɽʌse
+ʒuʃɑ
+hʌmnaʈe
+ɣǝ̨ɽs
+ɣǝ̨re
+naddee
+lakƙǫf
+lakƙǝ̨f
+lakƙ
+kða
+kðja
+lɑvoz
+nʒǝ̨f
+gʒime
+ƭɑŋz
