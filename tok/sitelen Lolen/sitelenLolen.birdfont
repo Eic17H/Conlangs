@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<font>
+<format>4.33</format>
+<program version="6.2.1" os="windows" />
+
+<postscript_name>Typeface</postscript_name>
+<name>Typeface</name>
+<subfamily>Regular</subfamily>
+<bold>false</bold>
+<italic>false</italic>
+<mono>false</mono>
+<full_name>Typeface</full_name>
+<unique_identifier>Typeface</unique_identifier>
+<version>Version 1.0</version>
+<description></description>
+<copyright>SIL Open Font License (OFL)</copyright>
+<license>SIL Open Font License (OFL)</license>
+<license_url>http://scripts.sil.org/OFL</license_url>
+<weight>400</weight>
+<italic_angle>0</italic_angle>
+<units_per_em>1024</units_per_em>
+<trademark></trademark>
+<manufacturer></manufacturer>
+<designer></designer>
+<vendor_url></vendor_url>
+<vendor_id>Bird</vendor_id>
+<designer_url></designer_url>
+<underline_position>-10</underline_position>
+<underline_thickness>3.5</underline_thickness>
+<open_engraving>false</open_engraving>
+<same_way_back_engraving>false</same_way_back_engraving>
+<external_backgrunds>false</external_backgrunds>
+
+<horizontal>
+	<top_limit>78</top_limit>
+	<top_position>72</top_position>
+	<x-height>36</x-height>
+	<base_line>0</base_line>
+	<bottom_position>-20</bottom_position>
+	<bottom_limit>-21</bottom_limit>
+	<line_gap>10</line_gap>
+</horizontal>
+
+<grid width="9"/>
+<grid width="2"/>
+<grid width="4"/>
+
+<background scale="1" />
+
+<base_filename>Typeface</base_filename>
+<base_filename_mac>Typeface Mac</base_filename_mac>
+<export_ttf_font>true</export_ttf_font>
+<export_otf_font>true</export_otf_font>
+<export_eot_font>false</export_eot_font>
+<export_svg_font>true</export_svg_font>
+<export_colr_table>true</export_colr_table>
+<export_svg_table>true</export_svg_table>
+<optimize_otf_for_size>false</optimize_otf_for_size>
+<optimize_otf_for_details>true</optimize_otf_for_details>
+
+<default_foreground_color></default_foreground_color>
+
+<svg_units_per_em>100</svg_units_per_em>
+<svg_decimals>5</svg_decimals>
+<ligature_tag>clig</ligature_tag>
+<disable_gvar>false</disable_gvar>
+
+
+<collection name=".notdef" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-20" right="33" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="B -15,10 M 15,10 M 15,62 M -15,62 M -15,10" />
+			<path data="B -20,67 M 20,67 M 20,5 M -20,5 M -20,67" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="51" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,0 D -24,36 -8,68 8,68 L 8,0 L -24,0 O" />
+			<path stroke="8" data="S -24,0 L -24,64 L -24,0 O" />
+			<path stroke="8" data="S 40,72 L 40,0 L 40,72 O" />
+			<path stroke="8" data="S 40,72 D 40,64 20,56 12,56 L 8,56 L 40,72 O" />
+			<path data="S -28,72 D -26,70 -20.001,64 -20,64 L -28,64 L -28,72" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="55" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,0 D -24,36 -8,68 8,68 L 8,0 L -24,0 O" />
+			<path stroke="8" data="S -24,0 L -24,64 L -24,0 O" />
+			<path stroke="8" data="S 8,0 D 8,36 24,68 40,68 L 40,0 L 8,0 O" />
+			<path data="S -28,72 D -26,70 -20.001,64 -20,64 L -28,64 L -28,72" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="555" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 40,36 L 40,0 D 40,18.15 40,27 40,36 O" />
+			<path stroke="8" data="S -24,0 D -24,18 -8,32 8,32 L 8,0 D 0,4 -16,0 -24,0 O" />
+			<path stroke="8" data="S 8,0 D 8,18 24,32 40,32 D 40,-8.71667 16,8 8,0 O" />
+			<path stroke="8" data="S 40,36 L 40,68 D 8,68 -24,54 -24,36 L -24,0 L 40,36 O" />
+			<path stroke="8" data="S -24,4 L -24,64 L -24,4 O" />
+			<path data="S -28,72 D -28,72 -22,66 -20,64 D -22,64 -28.001,64 -28,64 D -28,66 -28.001,72 -28,72" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="5551" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,0 D -24,18 -8,32 8,32 L 8,0 L -24,0 O" />
+			<path stroke="8" data="S 40,0 L 40,32 D 24,32 8,18 8,0 L 40,0 O" />
+			<path stroke="8" data="S -24,36 L -24,64 L -24,36 O" />
+			<path stroke="8" data="S -24,0 L -24,36 D -24,54 -8,68 8,68 L 8,32 D 0,24 -16,8 -24,0 O" />
+			<path stroke="8" data="S 40,72 L 40,32 L 40,72 O" />
+			<path stroke="8" data="S 40,72 D 40,64 28,56 20,56 L 40,72 O" />
+			<path data="S -28,72 D -26,70 -24,68 -20,64 D -24,64 -26,64 -28,64 L -28,72" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="5555" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,0 D -24,18 -8,32 8,32 L 8,0 L -24,0 O" />
+			<path stroke="8" data="S -24,36 L -24,64 L -24,36 O" />
+			<path stroke="8" data="S -24,0 L -24,36 D -24,54 -8,68 8,68 L 8,32 L -24,0 O" />
+			<path stroke="8" data="S 8,0 D 8,18 24,32 40,32 L 40,0 L 8,0 O" />
+			<path stroke="8" data="S 8,0 L 8,36 D 8,54 24,68 40,68 L 40,32 L 8,0 O" />
+			<path data="S -28,72 D -26,70 -20.001,64 -20,64 L -28,64 L -28,72" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="555II" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,0 D -24,18 -8,32 8,32 L 8,0 L -24,0 O" />
+			<path stroke="8" data="S 40,0 L 40,32 D 24,32 8,18 8,0 L 40,0 O" />
+			<path stroke="8" data="S -24,36 L -24,64 L -24,36 O" />
+			<path stroke="8" data="S -24,0 L -24,36 D -24,54 -8,68 8,68 L 8,32 L -24,0 O" />
+			<path stroke="8" data="S 40,32 L 40,64 L 40,32 O" />
+			<path stroke="8" data="S 24,32 L 24,64 L 24,32 O" />
+			<path stroke="8" data="S 40,54 L 24,54 L 40,54 O" />
+			<path data="S -28,72 D -26,70 -20.001,64 -20,64 L -28,64 D -28,66 -26,70 -28,72 O" />
+			<path data="S 20,72 D 22,70 27.999,64 28,64 L 20,64 L 20,72" />
+			<path data="S 36,64 L 44,72 D 44,70 43.999,64 44,64 L 36,64" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="555II1" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,0 D -24,18 -8,32 8,32 L 8,0 L -24,0 O" />
+			<path stroke="8" data="S 40,0 L 40,32 D 24,32 8,18 8,0 L 40,0 O" />
+			<path stroke="8" data="S -24,36 L -24,64 L -24,36 O" />
+			<path stroke="8" data="S -24,0 L -24,36 D -24,54 -16,68 -8,68 L -8,32 L -24,0 O" />
+			<path stroke="8" data="S 40,64 L 40,32 L 40,64 O" />
+			<path stroke="8" data="S 24,64 L 24,32 L 24,64 O" />
+			<path stroke="8" data="S 8,54 L 24,54 L 8,54 O" />
+			<path stroke="8" data="S 8,32 L 8,64 L 8,32 O" />
+			<path data="S -28,72 D -28,72 -22,66 -20,64 D -22,64 -28.001,64 -28,64 D -28,66 -28.001,72 -28,72" />
+			<path data="S 4,72 D 6,70 11.999,64 12,64 L 4,64 L 4,72" />
+			<path data="S 20,64 L 28,72 D 28,70 27.999,64 28,64 L 20,64" />
+			<path data="S 36,64 L 44,72 D 44,70 43.999,64 44,64 L 36,64" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="555IIII" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,0 D -24,18 -8,32 8,32 L 8,0 L -24,0 O" />
+			<path stroke="8" data="S 40,0 L 40,32 D 24,32 8,18 8,0 L 40,0 O" />
+			<path stroke="8" data="S -24,36 L -24,64 L -24,36 O" />
+			<path stroke="8" data="S -24,0 L -24,36 D -24,54 -8,68 8,68 L 8,32 L -24,0 O" />
+			<path stroke="8" data="S 40,64 L 40,32 L 40,64 O" />
+			<path stroke="8" data="S 24,32 L 24,64 L 24,32 O" />
+			<path stroke="8" data="S 40,60 L 24,60 L 40,60 O" />
+			<path stroke="8" data="S 24,44 L 40,44 L 24,44 O" />
+			<path data="S -28,72 D -26,70 -24,68 -20,64 D -24,64 -26,64 -28,64 L -28,72" />
+			<path data="S 20,72 D 20,72 27.999,64 28,64 L 20,64 D 20,66 19.999,72 20,72" />
+			<path data="S 44,72 D 44,70 43.999,64 44,64 L 36,64 L 44,72" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="55I" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="2"/>
+	<glyph id="2" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,0 D -24,18 -8,32 8,32 L 8,0 L -24,0 O" />
+			<path stroke="8" data="S 40,0 L 40,32 D 24,32 8,18 8,0 L 40,0 O" />
+			<path stroke="8" data="S -24,0 L -24,28 D -24,46 -0.85786,23.14214 -24,0 O" />
+			<path stroke="8" data="S 8,72 L 8,0 L 8,72 O" />
+			<path stroke="8" data="S 8,72 D 8,64 -4,56 -12,56 L 8,72 O" />
+			<path data="S -28,36 D -26,34 -20.001,28 -20,28 L -28,28 L -28,36" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="55II" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,0 D -24,18 -8,32 8,32 L 8,0 L -24,0 O" />
+			<path stroke="8" data="S 40,0 L 40,32 D 24,32 8,18 8,0 L 40,0 O" />
+			<path stroke="8" data="S -24,0 L -24,28 L -24,0 O" />
+			<path stroke="8" data="S -8,72 L -8,32 L -8,72 O" />
+			<path stroke="8" data="S -8,72 D -8,64 -20,56 -28,56 L -8,72 O" />
+			<path stroke="8" data="S 24,32 L 24,64 L 24,32 O" />
+			<path stroke="8" data="S 20,52 L -12,52 L 20,52 O" />
+			<path data="S 28,72 D 28,72 27.999,64 28,64 L 20,64 D 22,66 27.999,72 28,72" />
+			<path data="S -28,36 D -26,34 -20.001,28 -20,28 L -28,28 L -28,36" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="55II1" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,0 D -24,18 -8,32 8,32 L 8,0 L -24,0 O" />
+			<path stroke="8" data="S 40,0 L 40,32 D 24,32 8,18 8,0 L 40,0 O" />
+			<path stroke="8" data="S 8,32 L 8,64 L 8,32 O" />
+			<path stroke="8" data="S 8,52 L -24,52 L 8,52 O" />
+			<path stroke="8" data="S -24,0 L -24,36 L -24,64 L -24,0 O" />
+			<path stroke="8" data="S 40,72 L 40,0 L 40,72 O" />
+			<path stroke="8" data="S 40,72 D 40,64 28,56 20,56 L 40,72 O" />
+			<path data="S -28,72 D -26,70 -20.001,64 -20,64 D -22,64 -28.001,64 -28,64 L -28,72" />
+			<path data="S 4,64 D 6,66 11.999,72 12,72 D 12,70 11.999,64 12,64 L 4,64" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="55IIII" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="2"/>
+	<glyph id="2" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,0 D -24,18 -8,32 8,32 L 8,0 L -24,0 O" />
+			<path stroke="8" data="S 40,0 L 40,32 D 24,32 8,18 8,0 L 40,0 O" />
+			<path stroke="8" data="S -24,0 L -24,28 L -24,0 O" />
+			<path stroke="8" data="S -8,72 L -8,32 L -8,72 O" />
+			<path stroke="8" data="S -8,72 D -8,64 -20,56 -28,56 L -8,72 O" />
+			<path stroke="8" data="S 24,32 L 24,64 L 24,32 O" />
+			<path stroke="8" data="S -8,60 L 24,60 L -8,60 O" />
+			<path stroke="8" data="S -8,44 L 24,44 L -8,44 O" />
+			<path data="S -28,36 D -26,34 -20.001,28 -20,28 L -28,28 L -28,36" />
+			<path data="S 28,72 D 28,70 27.999,64 28,64 L 20,64 L 28,72" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="5II" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,0 D -24,36 -8,68 8,68 L 8,0 L -24,0 O" />
+			<path stroke="8" data="S -24,0 L -24,64 L -24,0 O" />
+			<path stroke="8" data="S 40,0 L 40,64 L 40,0 O" />
+			<path stroke="8" data="S 40,36 L 8,36 L 40,36 O" />
+			<path data="S -28,72 L -20,64 L -28,64 L -28,72" />
+			<path data="S 36,64 L 44,72 D 44,70 43.999,64 44,64 L 36,64" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="5II1" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,0 D -24,36 -16,68 -8,68 L -8,0 L -24,0 O" />
+			<path stroke="8" data="S -24,0 L -24,64 L -24,0 O" />
+			<path stroke="8" data="S 8,0 L 8,64 L 8,0 O" />
+			<path stroke="8" data="S 8,36 L -8,36 L 8,36 O" />
+			<path stroke="8" data="S 24,72 L 24,0 L 24,72 O" />
+			<path stroke="8" data="S 44,56 D 36,56 24,64 24,72 L 44,56 O" />
+			<path data="S -28,72 D -26,70 -20.001,64 -20,64 L -28,64 L -28,72" />
+			<path data="S 4,64 L 12,72 D 12,70 11.999,64 12,64 L 4,64" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="5IIII" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,0 D -24,36 -8,68 8,68 L 8,0 L -24,0 O" />
+			<path stroke="8" data="S -24,0 L -24,64 L -24,0 O" />
+			<path stroke="8" data="S 40,0 L 40,64 L 40,0 O" />
+			<path stroke="8" data="S 40,48 L 8,48 L 40,48 O" />
+			<path stroke="8" data="S 40,24 L 8,24 L 40,24 O" />
+			<path data="S -28,72 D -26,70 -20.001,64 -20,64 L -28,64 L -28,72" />
+			<path data="S 44,72 L 44,64 L 36,64 L 44,72" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="II1" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="44" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -8,72 L -8,0 L -8,72 O" />
+			<path stroke="8" data="S -8,72 D -8,64 -20,56 -28,56 L -8,72 O" />
+			<path stroke="8" data="S 8,0 L 8,64 L 8,0 O" />
+			<path stroke="8" data="S -8,36 L 8,36 L -8,36 O" />
+			<path stroke="8" data="S 24,72 L 24,0 L 24,72 O" />
+			<path stroke="8" data="S 44,56 D 36,56 24,64 24,72 L 44,56 O" />
+			<path data="S 4,64 L 12,72 D 12,70 12,68 12,64 D 8,64 6,64 4,64" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="IIII" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -8,72 L -8,0 L -8,72 O" />
+			<path stroke="8" data="S -8,72 D -8,64 -20,56 -28,56 L -8,72 O" />
+			<path stroke="8" data="S 24,0 L 24,64 L 24,0 O" />
+			<path stroke="8" data="S 24,48 L -8,48 L 24,48 O" />
+			<path stroke="8" data="S 24,24 L -8,24 L 24,24 O" />
+			<path data="S 20,64 L 28,72 L 28,64 L 20,64" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="p1" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 40.0557,54.03031 D 40.0557,51.34573 35.00391,46.00767 30.66681,44.10938 T D 26.32971,42.21109 14.13359,40 8,40 T D 1.86641,40 -10.3297,42.21109 -14.66681,44.10938 T D -19.00392,46.00767 -24.0557,51.34573 -24.0557,54.03031 T D -24.0557,56.71489 -19.00391,62.05295 -14.66681,63.95124 T D -10.32971,65.84953 1.86641,68.06062 8,68.06062 T D 14.13359,68.06062 26.32971,65.84953 30.66681,63.95124 T D 35.00391,62.05295 40.0557,56.71489 40.0557,54.03031 T" />
+			<path stroke="8" data="S -24,54 L -24,0 L -24,54 O" />
+			<path stroke="8" data="S 8,32 L 8,0 L 8,32 O" />
+			<path stroke="8" data="S 8,32 D 8,24 -4,16 -12,16 L 8,32 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="pII" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 40.0557,54.03031 D 40.0557,51.34573 35.00391,46.00767 30.66681,44.10938 T D 26.32971,42.21109 14.13359,40 8,40 T D 1.86641,40 -10.3297,42.21109 -14.66681,44.10938 T D -19.00392,46.00767 -24.0557,51.34573 -24.0557,54.03031 T D -24.0557,56.71489 -19.00391,62.05295 -14.66681,63.95124 T D -10.32971,65.84953 1.86641,68.06062 8,68.06062 T D 14.13359,68.06062 26.32971,65.84953 30.66681,63.95124 T D 35.00391,62.05295 40.0557,56.71489 40.0557,54.03031 T" />
+			<path stroke="8" data="S -24,54 L -24,0 L -24,54 O" />
+			<path stroke="8" data="S 8,28 L 8,0 L 8,28 O" />
+			<path stroke="8" data="S 8,28 D 8,20 -4,12 -12,12 L 8,28 O" />
+			<path stroke="8" data="S 40,0 L 40,20 L 40,0 O" />
+			<path stroke="8" data="S 40,12 L 8,12 L 40,12 O" />
+			<path data="S 36,20 L 44,28 D 44,26 43.999,20 44,20 L 36,20" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="pII1" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 40.0557,54.03031 D 40.0557,51.34573 35.00391,46.00767 30.66681,44.10938 T D 26.32971,42.21109 14.13359,40 8,40 T D 1.86641,40 -10.3297,42.21109 -14.66681,44.10938 T D -19.00392,46.00767 -24.0557,51.34573 -24.0557,54.03031 T D -24.0557,56.71489 -19.00391,62.05295 -14.66681,63.95124 T D -10.32971,65.84953 1.86641,68.06062 8,68.06062 T D 14.13359,68.06062 26.32971,65.84953 30.66681,63.95124 T D 35.00391,62.05295 40.0557,56.71489 40.0557,54.03031 T" />
+			<path stroke="8" data="S -24,54 L -24,0 L -24,54 O" />
+			<path stroke="8" data="S 24,0 L 24,28 L 24,0 O" />
+			<path stroke="8" data="S 44,12 D 36,12 24,20 24,28 L 44,12 O" />
+			<path stroke="8" data="S -8,20 L -8,0 L -8,20 O" />
+			<path stroke="8" data="S -8,12 L 12,12 L -8,12 O" />
+			<path stroke="8" data="S 8,0 L 8,20 L 8,0 O" />
+			<path data="S -12,28 D -10,26 -4.001,20 -4,20 L -12,20 L -12,28" />
+			<path data="S 4,20 D 6,22 11.999,28 12,28 L 12,20 L 4,20" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="pIII" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 40.0557,54.03031 D 40.0557,51.34573 35.00391,46.00767 30.66681,44.10938 T D 26.32971,42.21109 14.13359,40 8,40 T D 1.86641,40 -10.3297,42.21109 -14.66681,44.10938 T D -19.00392,46.00767 -24.0557,51.34573 -24.0557,54.03031 T D -24.0557,56.71489 -19.00391,62.05295 -14.66681,63.95124 T D -10.32971,65.84953 1.86641,68.06062 8,68.06062 T D 14.13359,68.06062 26.32971,65.84953 30.66681,63.95124 T D 35.00391,62.05295 40.0557,56.71489 40.0557,54.03031 T" />
+			<path stroke="8" data="S -24,54 L -24,0 L -24,54 O" />
+			<path stroke="8" data="S 8,28 L 8,0 L 8,28 O" />
+			<path stroke="8" data="S 8,28 D 8,20 -4,12 -12,12 L 8,28 O" />
+			<path stroke="8" data="S 40,0 L 40,20 L 40,0 O" />
+			<path stroke="8" data="S 40,12 L 8,12 L 40,12 O" />
+			<path stroke="8" data="S 24,20 L 24,0 L 24,20 O" />
+			<path data="S 20,20 L 28,28 D 28,26 27.999,20 28,20 L 20,20" />
+			<path data="S 36,20 L 44,28 L 44,20 L 36,20" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+20" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="0" right="27" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+200d" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="-28" zero_width="false">
+		<layer name="Layer" visible="true">
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f1900" svg="false" colr="false" auto_generate="false" meta_name="SITELEN PONA IDEOGRAPH A">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 1.68682,6.35556 D 0.5987,5.26743 -2.46116,4 -4,4 T D -5.53884,4 -8.59869,5.26743 -9.68682,6.35556 T D -10.77495,7.44369 -12.04238,10.50354 -12.04238,12.04238 T D -12.04238,13.58123 -10.77495,16.64107 -9.68682,17.72921 T D -8.5987,18.81734 -5.53884,20.08477 -4,20.08477 T D -2.46116,20.08477 0.59869,18.81734 1.68682,17.72921 T D 2.77495,16.64108 4.04238,13.58123 4.04238,12.04238 T D 4.04238,10.50354 2.77495,7.44369 1.68682,6.35556 T" />
+			<path stroke="8" data="S -4,20 D 8,20 20,4 24,4 D 12,4 3,16 -4,20 O" />
+			<path stroke="8" data="S 4,12 D 4,24 4,52 4,64 D 4,56 4,25 4,12 O" />
+			<path data="S 24,8 D 26,6 31.999,0 32,0 D 30,0 23.999,0 24,0 L 24,8" />
+			<path data="S 0,72 D 0,72 7.999,64 8,64 D 6,64 -0.001,64 0,64 D 0,66 -0.001,72 0,72" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f1902" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="S -28,72 L -16,72 L 44,0 L 32,0 L -28,72" />
+			<path data="S 32,72 L 44,72 L -16,0 L -28,0 L 32,72" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f1904" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 16,68 L 24,68 D 32,68 40,52 40,36 D 40,4 8,4 8,36 D 8,68 -24,68 -24,36 D -24,20 -16,4 -8,4 L 0,4 D -8,4 7,60 16,68 O" />
+			<path data="S 8,72 L 16,64 D 16,66 15.999,72 16,72 L 8,72" />
+			<path data="S 0,0 L 8,0 L 0,8 L 0,0" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f190a" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 8,0 L 8,64 L 8,0 O" />
+			<path stroke="8" data="S -20,36 L 36,36 L -20,36 O" />
+			<path data="S 4,64 L 4,72 D 4.001,72 10,66 12,64 L 4,64" />
+			<path data="S -20,32 L -28,40 L -20,40 L -20,32" />
+			<path data="S 36,40 D 38,38 43.999,32 44,32 L 36,32 L 36,40" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f190c" svg="false" colr="false" auto_generate="false" meta_name="SITELEN PONA IDEOGRAPH IJO">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 30.66681,13.33319 D 26.3297,8.99609 14.13359,3.9443 8,3.9443 T D 1.86641,3.9443 -10.32971,8.99608 -14.66681,13.33319 T D -19.00391,17.6703 -24.0557,29.86641 -24.0557,36 T D -24.0557,42.13359 -19.00392,54.32971 -14.66681,58.66681 T D -10.3297,63.00391 1.86641,68.0557 8,68.0557 T D 14.13359,68.0557 26.32971,63.00392 30.66681,58.66681 T D 35.00391,54.3297 40.0557,42.13359 40.0557,36 T D 40.0557,29.86641 35.00391,17.6703 30.66681,13.33319 T" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f1911" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -20,4 D -4,4 32,28 32,44 D 32,56 20.76494,68 8,68 D -4.50677,68 -16,56 -16,44 D -16,28 20,4 36,4 D 16,4 -6,4 -20,4 O" />
+			<path data="S -28,0 L -20,8 D -20,6 -20,4 -20,0 D -24,0 -26,0 -28,0" />
+			<path data="S 36,8 D 38,6 40,4 44,0 D 40,0 38,0 36,0 L 36,8" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f1915" svg="false" colr="false" auto_generate="false" meta_name="SITELEN PONA IDEOGRAPH KALAMA">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -20,4 D 0,4 40,18 40,32 L -20,32 D -20,25 -20,11 -20,4 O" />
+			<path data="S 4,72 L 12,72 L 12,44 L 4,44 L 4,72" />
+			<path data="S 36,72 L 44,72 L 28,44 L 20,44 L 36,72" />
+			<path data="S -28,72 L -20,72 D -16,65 -4.001,44 -4,44 L -12,44 L -28,72" />
+			<path data="S -20,28 D -20.001,28 -20,34 -20,36 L -28,36 L -20,28" />
+			<path data="S -20,0 L -20,8 L -28,0 L -20,0" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f192a" svg="false" colr="false" auto_generate="false" meta_name="SITELEN PONA IDEOGRAPH LIPU">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,68 L 40,68 L 40,4 L -24,4 L -24,68" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f192d" svg="false" colr="false" auto_generate="false" meta_name="SITELEN PONA IDEOGRAPH LUKA">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 40,0 L 40,68 D 8,68 -24,36 -24,0 D -24,45.55 24,0 40,0 O" />
+			<path stroke="8" data="S -24,0 L -24,64 D -24,46 -24,16 -24,0 O" />
+			<path data="S -28,72 D -26,70 -24,68 -20,64 D -24,64 -26,64 -28,64 L -28,72" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f1934" svg="false" colr="false" auto_generate="false" meta_name="SITELEN PONA IDEOGRAPH MI">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 40.0557,54.03031 D 40.0557,51.34573 35.00391,46.00767 30.66681,44.10938 T D 26.32971,42.21109 14.13359,40 8,40 T D 1.86641,40 -10.3297,42.21109 -14.66681,44.10938 T D -19.00392,46.00767 -24.0557,51.34573 -24.0557,54.03031 T D -24.0557,56.71489 -19.00391,62.05295 -14.66681,63.95124 T D -10.32971,65.84953 1.86641,68.06062 8,68.06062 T D 14.13359,68.06062 26.32971,65.84953 30.66681,63.95124 T D 35.00391,62.05295 40.0557,56.71489 40.0557,54.03031 T" />
+			<path stroke="8" data="S -24,54 L -24,0 L -24,54 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f193c" svg="false" colr="false" auto_generate="false" meta_name="SITELEN PONA IDEOGRAPH MUTE">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 40,0 L 40,64 L 40,0 O" />
+			<path stroke="8" data="S -8,72 L -8,0 L -8,72 O" />
+			<path stroke="8" data="S 16,56 L 16,16 L 16,56 O" />
+			<path stroke="8" data="S -8,72 D -8,64 -20,56 -28,56 D -28,64 -13,68 -8,72 O" />
+			<path stroke="8" data="S -8,36 L 40,36 L -8,36 O" />
+			<path data="S 12,56 D 12,56 19.999,64 20,64 D 20,62 19.999,56 20,56 D 18,56 11.999,56 12,56" />
+			<path data="S 20,16 D 19.999,16 14,10 12,8 L 12,16 L 20,16" />
+			<path data="S 36,64 L 44,72 D 44,70 43.999,64 44,64 L 36,64" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f193d" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -8,0 L -8,64 L -8,0 O" />
+			<path stroke="8" data="S -20,20 L 36,20 L -20,20 O" />
+			<path stroke="8" data="S 24,64 L 24,0 L 24,64 O" />
+			<path stroke="8" data="S -20,52 L 36,52 L -20,52 O" />
+			<path data="S -4,72 L -4,64 D -6,64 -11.999,64 -12,64 L -4,72" />
+			<path data="S 20,64 D 22,66 27.999,72 28,72 L 28,64 D 26,64 19.999,64 20,64 O" />
+			<path data="S 36,56 L 44,48 D 43.999,48 38,48 36,48 L 36,56" />
+			<path data="S 36,24 D 38,22 43.999,16 44,16 L 36,16 L 36,24" />
+			<path data="S -28,56 L -20,56 L -20,48 L -28,56" />
+			<path data="S -28,24 L -20,24 D -20,22 -20.001,16 -20,16 L -28,24" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f1944" svg="false" colr="false" auto_generate="false" meta_name="SITELEN PONA IDEOGRAPH O">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 5.68682,6.35556 D 4.5987,5.26743 1.53884,4 0,4 T D -1.53884,4 -4.59869,5.26743 -5.68682,6.35556 T D -6.77495,7.44369 -8.04238,10.50354 -8.04238,12.04238 T D -8.04238,13.58123 -6.77495,16.64107 -5.68682,17.72921 T D -4.5987,18.81734 -1.53884,20.08477 0,20.08477 T D 1.53884,20.08477 4.59869,18.81734 5.68682,17.72921 T D 6.77495,16.64108 8.04238,13.58123 8.04238,12.04238 T D 8.04238,10.50354 6.77495,7.44369 5.68682,6.35556 T" />
+			<path stroke="8" data="S 8,12 D 8,24 8,52 8,64 L 8,12 O" />
+			<path stroke="8" data="S 0,20 D 5.09524,20 12,20 16,20 D 20,20 24,14.30159 24,12 D 24,8 20,4 16,4 D 5.91667,4 7.5,10 0,20 O" />
+			<path data="S 4,72 D 6,70 12.001,64 12,64 D 10,64 4.001,64 4,64 L 4,72" />
+			<path data="S 8,0 D 10,2 15.999,8 16,8 D 16,6 16,4 16,0 D 12,0 10,0 8,0 D 8,0 10,0 8,0 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f1946" svg="false" colr="false" auto_generate="false" meta_name="SITELEN PONA IDEOGRAPH ONA">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 35.95124,58.66681 D 37.84952,54.3297 40.06062,42.13359 40.06062,36 T D 40.06062,29.86641 37.84953,17.67029 35.95124,13.33319 T D 34.05295,8.99609 28.71489,3.9443 26.03031,3.9443 T D 23.34573,3.9443 18.00767,8.99608 16.10938,13.33319 T D 14.21109,17.6703 12,29.86641 12,36 T D 12,42.13359 14.21109,54.32971 16.10938,58.66681 T D 18.00767,63.00391 23.34573,68.0557 26.03031,68.0557 T D 28.71489,68.0557 34.05295,63.00391 35.95124,58.66681 T" />
+			<path stroke="8" data="S 26,4 L -20,4 L 26,4 O" />
+			<path data="S -28,0 L -20,8 D -20,6 -20,4 -20,0 D -24,0 -26,0 -28,0 D -28,0 -26,0 -28,0 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f1947" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,32 L 40,32 L 40,4 L -24,4 L -24,32" />
+			<path stroke="8" data="S -24,20 L -24,64 L -24,20 O" />
+			<path stroke="8" data="S 40,20 L 40,64 L 40,20 O" />
+			<path data="S -28,72 D -26,70 -20.001,64 -20,64 L -28,64 L -28,72" />
+			<path data="S 44,72 D 44,70 43.999,64 44,64 L 36,64 L 44,72" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f195e" svg="false" colr="false" auto_generate="false" meta_name="SITELEN PONA IDEOGRAPH SINA">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 30.66681,8.04876 D 26.3297,6.15048 14.13359,3.93938 8,3.93938 T D 1.86641,3.93938 -10.32971,6.15047 -14.66681,8.04876 T D -19.00391,9.94705 -24.0557,15.28511 -24.0557,17.96969 T D -24.0557,20.65427 -19.00392,25.99233 -14.66681,27.89062 T D -10.3297,29.78891 1.86641,32 8,32 T D 14.13359,32 26.32971,29.78891 30.66681,27.89062 T D 35.00391,25.99233 40.0557,20.65427 40.0557,17.96969 T D 40.0557,15.28511 35.00391,9.94705 30.66681,8.04876 T" />
+			<path stroke="8" data="S -24,18 L -24,64 L -24,18 O" />
+			<path data="S -28,72 L -20,64 L -28,64 L -28,72" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f196c" svg="false" colr="false" auto_generate="false" meta_name="SITELEN PONA IDEOGRAPH TOKI">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 30.66681,8.04876 D 26.3297,6.15048 14.13359,3.93938 8,3.93938 T D 1.86641,3.93938 -10.32971,6.15047 -14.66681,8.04876 T D -19.00391,9.94705 -24.0557,15.28511 -24.0557,17.96969 T D -24.0557,20.65427 -19.00392,25.99233 -14.66681,27.89062 T D -10.3297,29.78891 1.86641,32 8,32 T D 14.13359,32 26.32971,29.78891 30.66681,27.89062 T D 35.00391,25.99233 40.0557,20.65427 40.0557,17.96969 T D 40.0557,15.28511 35.00391,9.94705 30.66681,8.04876 T" />
+			<path data="S -28,72 L -20,72 L -4,44 L -12,44 L -28,72" />
+			<path data="S 4,72 L 12,72 L 12,44 L 4,44 L 4,72" />
+			<path data="S 36,72 L 44,72 L 28,44 L 20,44 L 36,72" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f196e" svg="false" colr="false" auto_generate="false" meta_name="SITELEN PONA IDEOGRAPH TU">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -8,72 L -8,0 L -8,72 O" />
+			<path stroke="8" data="S -8,72 D -8,64 -20,56 -28,56 L -8,72 O" />
+			<path stroke="8" data="S 24,0 L 24,64 L 24,0 O" />
+			<path stroke="8" data="S -8,36 L 24,36 L -8,36 O" />
+			<path data="S 20,64 L 28,72 D 28,70 27.999,64 28,64 L 20,64" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f1970" svg="false" colr="false" auto_generate="false" meta_name="SITELEN PONA IDEOGRAPH UTA">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -20,68 L 40,68 D 40,36 0,4 -20,4 L -20,68 O" />
+			<path data="S -28,72 L -20,64 D -20,66 -20.001,72 -20,72 L -28,72" />
+			<path data="S -20,0 L -20,8 L -28,0 L -20,0" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f1973" svg="false" colr="false" auto_generate="false" meta_name="SITELEN PONA IDEOGRAPH WAN">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 8,0 L 8,72 L 8,0 O" />
+			<path stroke="8" data="S 8,72 D 8,64 -4,56 -12,56 L 8,72 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f1979" svg="false" colr="false" auto_generate="false" meta_name="SITELEN PONA IDEOGRAPH KIN">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 8,0 D 8,12 8,60 8,72 L 8,0 O" />
+			<path stroke="8" data="S -12,4 D 0,4 15.99848,31.9992 28,32 D 27.24824,31.99996 -2,11 -12,4 O" />
+			<path stroke="8" data="S 28,4 D 16,4 0,32 -12,32 D 0,32 18,11 28,4 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f197c" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,68 L 40,68 L 40,4 L -24,4 L -24,68" />
+			<path stroke="8" data="S -8,52 L -8,20 D 0,20 23.999,20 24,20 L 24,52 L -8,52" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0f1986" svg="false" colr="false" auto_generate="false" meta_name="SITELEN PONA IDEOGRAPH N">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S 4,20 D 16,20 20,4 24,4 L 4,20 O" />
+			<path stroke="8" data="S 4,0 D 4,12 4,52 4,64 L 4,0 O" />
+			<path data="S 0,72 D 0,72 4,68 8,64 D 4,64 2,64 0,64 D 0,66 -0.001,72 0,72" />
+			<path data="S 24,8 D 26,6 31.999,0 32,0 D 30,0 23.999,0 24,0 L 24,8" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+0ffd69" svg="false" colr="false" auto_generate="false" meta_name="SITELEN PONA IDEOGRAPH MUTE2">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="52" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="8" data="S -24,0 D -24,18 -8,32 8,32 L 8,8 L -24,0 O" />
+			<path stroke="8" data="S 8,32 D 24,32 40,18 40,0 D 25.65,0 16,24 8,32 O" />
+			<path stroke="8" data="S -24,36 D -24,46 -8,60 8,60 L 8,28 L -24,36 O" />
+			<path stroke="8" data="S 8,60 D 24,60 40,46 40,36 L 8,60 O" />
+			<path stroke="8" data="S -24,0 D -24,18 -24,56 -24,64 L -24,0 O" />
+			<path stroke="8" data="S 40,0 L 40,64 L 40,0 O" />
+			<path data="S 44,64 L 36,64 L 44,72 L 44,64" />
+			<path data="S -28,72 L -20,64 L -28,64 L -28,72" />
+		</layer>
+	</glyph>
+</collection>
+
+<ligature sequence="󱤭 ‍ 󱤭 ‍ 󱤭 ‍ 󱥮 ‍ 󱥮" replacement="555IIII" priority="1"/>
+<ligature sequence="󱤭 ‍ 󱤭 ‍ 󱤭 ‍ 󱥮 ‍ 󱥳" replacement="555II1" priority="1"/>
+<ligature sequence="󱤭 ‍ 󱤭 ‍ 󱤭 ‍ 󱤭" replacement="5555" priority="1"/>
+<ligature sequence="󱤭 ‍ 󱤭 ‍ 󱤭 ‍ 󱥮" replacement="555II" priority="1"/>
+<ligature sequence="󱤭 ‍ 󱤭 ‍ 󱤭 ‍ 󱥳" replacement="5551" priority="1"/>
+<ligature sequence="󱤭 ‍ 󱤭 ‍ 󱥮 ‍ 󱥮" replacement="55IIII" priority="1"/>
+<ligature sequence="󱤭 ‍ 󱤭 ‍ 󱥮 ‍ 󱥳" replacement="55II1" priority="1"/>
+<ligature sequence="󱤭 ‍ 󱤭 ‍ 󱤭" replacement="555" priority="1"/>
+<ligature sequence="󱤭 ‍ 󱤭 ‍ 󱥮" replacement="55II" priority="1"/>
+<ligature sequence="󱤭 ‍ 󱤭 ‍ 󱥳" replacement="55I" priority="1"/>
+<ligature sequence="󱤭 ‍ 󱥮 ‍ 󱥮" replacement="5IIII" priority="1"/>
+<ligature sequence="󱤭 ‍ 󱥮 ‍ 󱥳" replacement="5II1" priority="1"/>
+<ligature sequence="󱤴 ‍ 󱥮 ‍ 󱥳" replacement="pII1" priority="1"/>
+<ligature sequence="󱤭 ‍ 󱤭" replacement="55" priority="1"/>
+<ligature sequence="󱤭 ‍ 󱥮" replacement="5II" priority="1"/>
+<ligature sequence="󱤭 ‍ 󱥳" replacement="51" priority="1"/>
+<ligature sequence="󱤴 ‍ 󱤼" replacement="pIII" priority="1"/>
+<ligature sequence="󱤴 ‍ 󱥮" replacement="pII" priority="1"/>
+<ligature sequence="󱤴 ‍ 󱥳" replacement="p1" priority="1"/>
+<ligature sequence="󱥮 ‍ 󱥮" replacement="IIII" priority="1"/>
+<ligature sequence="󱥮 ‍ 󱥳" replacement="II1" priority="1"/>
+<ligature sequence="󱦐 󱦑" replacement="[]" priority="1"/>
+
+</font>
