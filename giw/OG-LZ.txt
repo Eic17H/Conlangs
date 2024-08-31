@@ -8,7 +8,7 @@ S=cjsz
 P=bdghkpt
 N=cjsznrl
 G=bcdfghjklmnpqstvxz
-
+O=oɑøuɵy
 ǝ̨|é
 
 -* Proto-Lyzic
@@ -63,8 +63,10 @@ r/r/_
 ʀ/r/_
 ɽ/r/_
 - Vowels
+j/β/_O
 j/j/_
-w/β/_
+w/β/_O
+w/ɣ/_
 o/o/_
 ʌ/o/_
 ǫ/ɑ/_
@@ -288,7 +290,7 @@ z/z/_
 ʃ/c/_
 ʒ/j/_
 ƙ/x/_
-ɣ/j/_
+ɣ/j/_ - TODO: fix
 - Nasal and liquids
 n/n/_
 l/l/_
@@ -377,24 +379,4 @@ ll/rl/_
 l/r/_G
 l/r/G_
 
-gallja
-est
-omnis
-δiiwiisa
-in
-partees
-trees
-kwaarų
-uuną
-iŋkolunt
-belgae
-alją
-akwiiδaanii
-tertją
-kwii
-ipsoorų
-liŋgwaa
-keltae
-nostraa
-gallii
-appellantur
+waʃaʈeɽs
