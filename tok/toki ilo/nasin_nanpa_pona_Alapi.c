@@ -1,20 +1,31 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+#define UCSUR
+
 int nnpA_li_kama_nanpa(char* nimi);
 void nanpa_li_kama_nnpA_la_sitelen(int nanpa_open);
 void nnpA_li_kama_nnp_la_sitelen(char* nimi_open);
 char* nanpa_li_kama_nnpA_la_poki_nimi(int nanpa_open);
 
+// FUINWEFUINEFW
+
+/**
+ * fweionwefin
+ * @return
+ */
+
 int main(){
-    int nanpa_open = 99;
+    for(int i=0; i<=100; i++)
+        nanpa_li_kama_nnpA_la_sitelen(i);
+    /*int nanpa_open = 1697;
     char* nimi_nnpA = nanpa_li_kama_nnpA_la_poki_nimi(nanpa_open);
     printf("%s\n", nimi_nnpA);
     int nanpa_kama = nnpA_li_kama_nanpa(nimi_nnpA);
     printf("%d\n", nanpa_kama);
     nnpA_li_kama_nnp_la_sitelen(nimi_nnpA);
     if(nanpa_open == nanpa_kama) printf("pona\n");
-    free(nimi_nnpA);
+    free(nimi_nnpA);*/
     return 0;
 }
 
@@ -66,6 +77,7 @@ void nanpa_li_kama_nnpA_la_sitelen(int nanpa_open){
         }
         if(ale/100>0) printf("\'");
     }
+    printf("\n");
 }
 
 // ilo ni li kute e nanpa li pana e nanpa Alapi pona
