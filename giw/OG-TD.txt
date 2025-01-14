@@ -186,6 +186,7 @@ s/h/_P
 io/ieo/_…V
 a/ea/_nC/a_
 [aeoy]//_V…VC…V
+[aeoy]//_V…VC…V…
 /v/a_o
 d/t/_s
 t/d/_z
