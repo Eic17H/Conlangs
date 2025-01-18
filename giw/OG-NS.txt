@@ -1,9 +1,13 @@
 Y=jeøiy
 N=mnŋ
 F=fvþðszʃʒƙɣhⱶ
-V=oaeuǝiǫąęųéį
+V=oaeuǝiǫąęųéįɨ
+C=bcdfghjklmnpqrstvwxzɣʃʒŋƙðþł
+K=bcdfghklmnpqrstvxzɣʃʒŋƙðþł
+W=oaeuǝiǫąęųéįɨjw
+T=bcdfghklmnpqrstvxzɣʃʒŋƙðþ
 ǝ̨|é
-
+ɨ̨|ì
 - Late Giworlic
 - Technical limitation
 ǝ̨/é/_
@@ -11,7 +15,6 @@ V=oaeuǝiǫąęųéį
 	/ /_
 - Palatalization
 γ/ɟ/_Y
-
 -* Nusan Late Giworlic
 - TODO: change V before q
 p/p/_
@@ -40,9 +43,9 @@ g/g/_
 χ/χƙ/_
 ƙ/ƙ/_
 ɣ/ɣ/_
-q/k/_
-ɋ/g/_
-ϙ/χh/_
+q/kq/_
+ɋ/gq/_
+ϙ/χhq/_
 h/ƙ/_
 ⱶ/ɣ/_
 m/m/_
@@ -75,6 +78,32 @@ i/i/_
 j/j/_
 w/w/_
 -* Proto-Nusan
+- Q vowels
+o/!o/q_
+a/!a/q_
+e/!e/q_
+u/!u/q_
+ǝ/!ǝ/q_
+i/!i/q_
+!o/o/q_
+!a/o/q_
+!e/a/q_
+!u/u/q_
+!ǝ/o/q_
+!i/e/q_
+ǫ/!ǫ/q_
+ą/!ą/q_
+ę/!ę/q_
+ų/!ų/q_
+é/!é/q_
+į/!į/q_
+!ǫ/ǫ/q_
+!ą/ǫ/q_
+!ę/ą/q_
+!ų/ų/q_
+!é/ǫ/q_
+!į/ę/q_
+q//_
 - Affricates
 φf/pf/_
 θþ/tþ/_
@@ -83,7 +112,6 @@ w/w/_
 dʒ/dz/_
 çʃ/tʃ/_
 χƙ/kƙ/_
-ϙ/h/_
 - W
 ʀ/r/_
 w/v/_
@@ -126,7 +154,60 @@ i/!i/_
 !ų/ǫ/_
 !é/é/_
 !į/ę/_
-"ƭaz
+- Diphthongs
+- TODO: remove long hiatuses
+uu/w/V_V
+w//V_Vw
+uw/u/_/_V
+ųw/v/_/_V
+ij/i/_/_V
+įj/į/_/_V
+w/u/V_/_V
+j/i/V_/_V
+oo/ou/_
+aa/aǝ/_
+ee/ei/_
+uu/ɨu/_
+ǝǝ/ǝɨ/_
+ii/iɨ/_
+- ii/iǝ/_
+ɨɨ/ɨǝ/_
+ǫǫ/ǫų/_
+ąą/ąé/_
+ęę/ęį/_
+ųų/ìų/_
+éé/éì/_
+įį/įì/_
+- Consonant removal
+- I can't get it to work
+- It's supposed to be:
+- okota -> okota
+- okoka -> okoa
+- C//_V
+- Vowel breaking
+- It's supposed to apply
+- only to the first vowel
+- in a word, but not
+- if there's a consonant
+- cluster after it
+- o/wo/_KW/V(…)_
+- e/je/_KW/V(…)_
+- Word-final stops
+p/f/_#
+t/s/_#
+k/ƙ/_#
+b/v/_#
+d/z/_#
+g/ɣ/_#
+- Time is a circle
+lw/ł/_
+- Word-final vowel reduction
+- TODO: handle dipthtongs
+[oaeǝ]/ǝ/_#
+[uiɨ]/ɨ/_#
+[ǫąęé]/é/_#
+[ųįì]/ì/_#
+ƭaz
 ʌƙe
 koną
 ŋrotołoƙs
@@ -591,4 +672,4 @@ sin
 ƭęęŋmjʌbʌre
 rukøbąv
 ʃka
-ocʃɵɽʈ"
+ocʃɵɽʈ
