@@ -1,0 +1,110 @@
+-* Tedenian
+- Palatals
+kj/c/_V
+gj/ɟ/_V
+- Plosives
+p/p/_
+b/b/_
+t/t/_
+δ/d/_
+ʈ/t/_
+d/d/_
+k/k/_
+g/g/_
+- Fricatives
+f/pf/#_
+v/bv/#_
+þ/þ/_
+ð/ð/_
+s/ts/_
+z/dz/_
+ʃ/t/_
+ʒ/d/_
+ƙ/h/_
+ɣ/j/_
+- Nasal and liquids
+n/n/_
+l/l/_
+r/l/_
+j//_
+β/v/_
+- Affricates and clusters
+p//_f#
+b//_v#
+t//_s#
+d//_z#
+p//C_f
+b//C_v
+t//C_s
+d//C_z
+K//#_²
+tn/pm/_F
+dn/bm/_F
+n/m/_F
+f/pf/m_
+v/bv/m_
+s/ts/n_
+z/dz/n_
+h/kh/n_
+d//_nC
+h//_
+- Vowels
+o/o/_
+a/a/_
+e/e/_
+u/u/_
+y/y/_
+i/i/_
+ɑ/o/_
+ɐ/a/_
+æ/e/_
+- other versions:
+- c/s/_
+- ɟ/z/_
+- c/k/_
+- ɟ/g/_
+c/ki/_
+ɟ/j/_
+j//_
+j/i/_
+- Epenthetic vowel
+/y/PS_P
+/y/#S_P
+- No triple letters
+A//_²²
+-* Personality
+t/k/_[kg]/#_
+d/g/_[kg]/#_
+[td]//#_[kg]
+k/g/_g
+g/k/_k
+/a/S_SC
+/a/#P_P
+/a/PP_#
+e/i/_V/_[eiu]
+o/u/_V/_[oiu]
+e/i/[ay]_
+o/u/[ay]_
+P//N_N
+lV/\\/P_/_CC
+lV/\\/pf_/_CC
+lV/\\/bv_/_CC
+dn/\\/_#
+tn/\\/_#
+bm/\\/_#
+pm/\\/_#
+V//Vl_NV
+V//Vl_S
+C//#_²
+f/h/V_#
+s/h/_P
+io/ieo/_…V
+a/ea/_nC/a_
+[aeoy]//_V…VC…V
+/v/a_o
+d/t/_s
+t/d/_z
+/y/#ts_C
+/y/#dz_C
+CV/\\/#C_V
+[pbkgn]//_[sz]

@@ -1,0 +1,83 @@
+- Late Giworlic
+
+- Technical limitation
+ǝ̨/é/_
+"//_
+	/ /_
+
+-* Nusan Late Giworlic
+φ/φf/_/_F
+θ/θþ/_/_F
+ƭ/θs/_/_F
+c/cʃ/_/_F
+γ/γʒ/_/_F
+ç/çʃ/_/_F
+χ/χƙ/_/_F
+q/kq/_/_F
+ɋ/gq/_/_F
+ϙ/χhq/_/_F
+h/ƙ/_
+ⱶ/ɣ/_
+ļ/s/_
+r/ʀ/_
+ʀ/ʀ/_
+ɽ/s/_
+ʌ/o/_
+ɑ/a/_
+ø/e/_
+ɯ/u/_
+ɵ/ǝ/_
+y/i/_
+
+-* Proto-Nusan
+- Q vowels
+o/!o/q_
+a/!a/q_
+e/!e/q_
+u/!u/q_
+ǝ/!ǝ/q_
+i/!i/q_
+!o/o/q_
+!a/o/q_
+!e/a/q_
+!u/u/q_
+!ǝ/o/q_
+!i/e/q_
+ǫ/!ǫ/q_
+ą/!ą/q_
+ę/!ę/q_
+ų/!ų/q_
+é/!é/q_
+į/!į/q_
+!ǫ/ǫ/q_
+!ą/ǫ/q_
+!ę/ą/q_
+!ų/ų/q_
+!é/ǫ/q_
+!į/ę/q_
+q//_
+
+- Affricates
+φf/pf/_
+θþ/tþ/_
+θs/ts/_
+dʒ/dz/_
+cʃ/tʃ/_
+γʒ/dʒ/_
+çʃ/tʃ/_
+χƙ/kƙ/_
+- W
+ʀ/r/_
+w/v/_
+ł/w/_
+- Epenthesis
+/ǝ̨/#_NF
+/ǝ/NF_#
+V//_²FF
+F//_²#
+[mb]/v/r_
+[mb]/v/_r
+[nd]/ð/r_
+[nd]/ð/_r
+[ŋg]/ɣ/r_
+[ŋg]/ɣ/_r

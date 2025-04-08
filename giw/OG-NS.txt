@@ -185,13 +185,13 @@ ii/iɨ/_
 - okoka -> okoa
 - C//_V
 - Vowel breaking
-- It's supposed to apply
-- only to the first vowel
-- in a word, but not
-- if there's a consonant
-- cluster after it
-- o/wo/_KW/V(…)_
-- e/je/_KW/V(…)_
+- Mark it if it's not the first vowel in the word
+/£/V…_[eo]
+- Break if it's not marked
+o/wo/_K[W£]/£_
+e/je/_K[W£]/£_
+- Unmark
+£//_
 - Word-final stops
 p/f/_#
 t/s/_#

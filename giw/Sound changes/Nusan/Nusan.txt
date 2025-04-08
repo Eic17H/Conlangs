@@ -1,0 +1,80 @@
+-* Great vowel shift
+- TODO: handle diphthongs
+o/!o/_
+a/!a/_
+e/!e/_
+u/!u/_
+ǝ/!ǝ/_
+i/!i/_
+!o/u/_
+!a/o/_
+!e/a/_
+!u/ɨ/_
+!ǝ/e/_
+!i/i/_
+- Nasalized
+ǫ/!ǫ/_
+ą/!ą/_
+ę/!ę/_
+ų/!ų/_
+é/!é/_
+į/!į/_
+!ǫ/ǫ/_
+!ą/é/_
+!ę/ę/_
+!ų/ǫ/_
+!é/é/_
+!į/ę/_
+- Diphthongs
+- TODO: remove long hiatuses
+uu/w/V_V
+w//V_Vw
+uw/u/_/_V
+ųw/v/_/_V
+ij/i/_/_V
+įj/į/_/_V
+w/u/V_/_V
+j/i/V_/_V
+oo/ou/_
+aa/aǝ/_
+ee/ei/_
+uu/ɨu/_
+ǝǝ/ǝɨ/_
+ii/iɨ/_
+- ii/iǝ/_
+ɨɨ/ɨǝ/_
+ǫǫ/ǫų/_
+ąą/ąé/_
+ęę/ęį/_
+ųų/ìų/_
+éé/éì/_
+įį/įì/_
+- Consonant removal
+- I can't get it to work
+- It's supposed to be:
+- okota -> okota
+- okoka -> okoa
+- C//_V
+- Vowel breaking
+- Mark it if it's not the first vowel in the word
+/£/V…_[eo]
+- Break if it's not marked
+o/wo/_K[W£]/£_
+e/je/_K[W£]/£_
+- Unmark
+£//_
+- Word-final stops
+p/f/_#
+t/s/_#
+k/ƙ/_#
+b/v/_#
+d/z/_#
+g/ɣ/_#
+- Time is a circle
+lw/ł/_
+- Word-final vowel reduction
+- TODO: handle dipthtongs
+[oaeǝ]/ǝ/_#
+[uiɨ]/ɨ/_#
+[ǫąęé]/é/_#
+[ųįì]/ì/_#

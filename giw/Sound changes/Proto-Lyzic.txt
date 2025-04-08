@@ -1,0 +1,64 @@
+-* Proto-Lyzic
+
+- Technical limitation
+ǝ̨/é/_
+"//_
+	/ /_
+
+- Palatals
+c/ʈ/_Y
+γ/d/_Y
+ç/ʈ/_Y
+c/k/_
+γ/g/_
+ç/ʈ/_Y
+
+- Plosives
+φ/p/_
+θ/t/_
+ƭ/ʈ/_
+χ/k/_
+q/k/_
+ɋ/g/_
+ϙ/h/_
+
+- Fricatives
+h/h/_
+ⱶ/h/_
+
+- Nasals
+m/n/_
+n/n/_
+ŋ/n/_
+
+- Liquids
+l/l/_
+ł/l/_
+ļ/l/_
+r/r/_
+ʀ/r/_
+ɽ/r/_
+
+- Vowels
+j/β/_O
+j/j/_
+w/β/_O
+w/ɣ/_
+o/o/_
+ʌ/o/_
+ǫ/ɑ/_
+ɑ/a/_
+a/a/_
+ą/ɐ/_
+ø/e/_
+e/e/_
+ę/æ/_
+u/u/_
+ɯ/u/_
+ų/u/_
+y/i/_
+i/i/_
+į/e/_
+ɵ/y/_
+ǝ/y/_
+é/y/_

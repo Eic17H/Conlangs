@@ -1,0 +1,6 @@
+1: p b ph -> p b pf -> p b f
+2: p b ph -> p b pf
+3: p b ph -> p p[hightone] p[lowtone]
+
+1: fewer vowels
+2: 
