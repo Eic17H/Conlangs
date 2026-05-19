@@ -1,0 +1,209 @@
+Y=jeøiy
+N=mnŋ
+F=fvþðszʃʒƙɣhⱶ
+V=oaeuǝiǫąęųéįɨ
+C=bcdfghjklmnpqrstvwxzɣʃʒŋƙðþł
+K=bcdfghklmnpqrstvxzɣʃʒŋƙðþł
+W=oaeuǝiǫąęųéįɨjw
+T=bcdfghklmnpqrstvxzɣʃʒŋƙðþ
+ǝ̨|é
+ɨ̨|ì
+- Late Giworlic
+- Technical limitation
+ǝ̨/é/_
+"//_
+	/ /_
+- Palatalization
+γ/ɟ/_Y
+-* Nusan Late Giworlic
+- TODO: change V before q
+p/p/_
+b/b/_
+φ/φf/_
+f/f/_
+v/v/_
+t/t/_
+δ/d/_
+θ/θþ/_
+þ/þ/_
+ð/ð/_
+ʈ/t/_
+d/d/_
+ƭ/θs/_
+s/s/_
+z/z/_
+c/cʃ/_
+γ/γʒ/_
+ɟ/dʒ/_
+ç/çʃ/_
+ʃ/ʃ/_
+ʒ/ʒ/_
+k/k/_
+g/g/_
+χ/χƙ/_
+ƙ/ƙ/_
+ɣ/ɣ/_
+q/kq/_
+ɋ/gq/_
+ϙ/χhq/_
+h/ƙ/_
+ⱶ/ɣ/_
+m/m/_
+n/n/_
+ŋ/ŋ/_
+l/l/_
+ł/ł/_
+ļ/s/_
+r/ʀ/_
+ʀ/ʀ/_
+ɽ/s/_
+o/o/_
+ʌ/o/_
+ǫ/ǫ/_
+ɑ/a/_
+a/a/_
+ą/ą/_
+ø/e/_
+e/e/_
+ę/ę/_
+u/u/_
+ɯ/u/_
+ų/ų/_
+ɵ/ǝ/_
+ǝ/ǝ/_
+ǝ̨/ǝ̨/_
+y/i/_
+i/i/_
+į/į/_
+j/j/_
+w/w/_
+-* Proto-Nusan
+- Q vowels
+o/!o/q_
+a/!a/q_
+e/!e/q_
+u/!u/q_
+ǝ/!ǝ/q_
+i/!i/q_
+!o/o/q_
+!a/o/q_
+!e/a/q_
+!u/u/q_
+!ǝ/o/q_
+!i/e/q_
+ǫ/!ǫ/q_
+ą/!ą/q_
+ę/!ę/q_
+ų/!ų/q_
+é/!é/q_
+į/!į/q_
+!ǫ/ǫ/q_
+!ą/ǫ/q_
+!ę/ą/q_
+!ų/ų/q_
+!é/ǫ/q_
+!į/ę/q_
+q//_
+- Affricates
+φf/pf/_
+θþ/tþ/_
+θs/ts/_
+γʒ/dʒ/_
+dʒ/dz/_
+çʃ/tʃ/_
+χƙ/kƙ/_
+- W
+ʀ/r/_
+w/v/_
+ł/w/_
+- Epenthesis
+/ǝ̨/#_NF
+/ǝ/NF_#
+V//_²FF
+F//_²#
+[mb]/v/r_
+[mb]/v/_r
+[nd]/ð/r_
+[nd]/ð/_r
+[ŋg]/ɣ/r_
+[ŋg]/ɣ/_r
+-* Great vowel shift
+- TODO: handle diphthongs
+o/!o/_
+a/!a/_
+e/!e/_
+u/!u/_
+ǝ/!ǝ/_
+i/!i/_
+!o/u/_
+!a/o/_
+!e/a/_
+!u/ɨ/_
+!ǝ/e/_
+!i/i/_
+- Nasalized
+ǫ/!ǫ/_
+ą/!ą/_
+ę/!ę/_
+ų/!ų/_
+é/!é/_
+į/!į/_
+!ǫ/ǫ/_
+!ą/é/_
+!ę/ę/_
+!ų/ǫ/_
+!é/é/_
+!į/ę/_
+- Diphthongs
+- TODO: remove long hiatuses
+uu/w/V_V
+w//V_Vw
+uw/u/_/_V
+ųw/v/_/_V
+ij/i/_/_V
+įj/į/_/_V
+w/u/V_/_V
+j/i/V_/_V
+oo/ou/_
+aa/aǝ/_
+ee/ei/_
+uu/ɨu/_
+ǝǝ/ǝɨ/_
+ii/iɨ/_
+- ii/iǝ/_
+ɨɨ/ɨǝ/_
+ǫǫ/ǫų/_
+ąą/ąé/_
+ęę/ęį/_
+ųų/ìų/_
+éé/éì/_
+įį/įì/_
+- Consonant removal
+- I can't get it to work
+- It's supposed to be:
+- okota -> okota
+- okoka -> okoa
+- C//_V
+- Vowel breaking
+- Mark it if it's not the first vowel in the word
+/£/V…_[eo]
+- Break if it's not marked
+o/wo/_K[W£]/£_
+e/je/_K[W£]/£_
+- Unmark
+£//_
+- Word-final stops
+p/f/_#
+t/s/_#
+k/ƙ/_#
+b/v/_#
+d/z/_#
+g/ɣ/_#
+- Time is a circle
+lw/ł/_
+- Word-final vowel reduction
+- TODO: handle dipthtongs
+[oaeǝ]/ǝ/_#
+[uiɨ]/ɨ/_#
+[ǫąęé]/é/_#
+[ųįì]/ì/_#
