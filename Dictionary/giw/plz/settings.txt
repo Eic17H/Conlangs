@@ -1,0 +1,3 @@
+mis:
+ita:proto-lisico
+eng:proto-lyzic
